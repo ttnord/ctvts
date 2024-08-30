@@ -1,5 +1,5 @@
 
-project(ctvts, 'cpp')
+project('ctvts', 'cpp')
 
 subdir('src')
 

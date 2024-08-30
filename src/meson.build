@@ -1,4 +1,4 @@
 
 srcs = files(
-    'main.c',
+    'main.cpp',
 )
